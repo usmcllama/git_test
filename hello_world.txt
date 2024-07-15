@@ -1,1 +1,2 @@
 "Hello computer!"
+"Git commit test"
